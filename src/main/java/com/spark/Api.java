@@ -9,7 +9,6 @@ import static spark.Spark.post;
 
 public class Api {
 
-
     public static UserService userService = new UserService();
 
     public static void main(String[] args) {
